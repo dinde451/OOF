@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.zonetangible.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1674781704|DPZLhMQopISx
+www.zonetangible.com	TRUE	/	FALSE	1999999999	fedops.logger.defaultOverrides	%7B%22paramsOverridesForApp%22%3A%7B%22music-manager-my-albums%22%3A%7B%22is_rollout%22%3Atrue%7D%7D%7D
+www.zonetangible.com	TRUE	/	FALSE	1999999999	hs	-727269751
+www.zonetangible.com	TRUE	/	FALSE	1999999999	svSession	1b18a1381d89c382168fd596dc6bef244510c8d8b6b2e9f767c068bcde51f5084812dc85bd9a6409ca33e64e72a654b61e60994d53964e647acf431e4f798bcd1c88830cc1eb564f5675bea7aba0bb91ca25f0c7579641fc61d78728757616c4f9a92d99ac9b12dd903ec9d27db0fe8375f5e30778fb38cf347ae7b5536d755d119d73a929afb70062acf4920738d21f
+www.zonetangible.com	TRUE	/	FALSE	1999999999	SameSite	None
+www.zonetangible.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss#dc#desc=nane1_g
+
